@@ -1,4 +1,4 @@
 Work in progress
 
 planned feature:
-New
+keybind to stop the autoclicker
